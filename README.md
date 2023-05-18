@@ -9,6 +9,6 @@
 ![screenshot Image](img/3.png)
 
 # 注意事项
-代码下载下来，还缺少 .dat 模型文件，一个4个
+代码下载下来，还缺少 .dat 模型文件，共4个
 FaceRecognition.Create("C:\\Users\\admin\\Desktop\\XXXXX\\dat");
 这里路径，关于其他api，请参考上面的git仓库地址
